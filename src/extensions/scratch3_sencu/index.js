@@ -456,7 +456,7 @@ class Scratch3SenCuBlocks {
         // }
     };
 
-    get9AxisData(axis) {
+    get9AxisData(axis, addr) {
         // var prefix = '';
         // var numeric = '-?\\d+\\.?\\d*';
 

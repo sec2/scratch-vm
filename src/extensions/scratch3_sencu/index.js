@@ -247,7 +247,7 @@ class Scratch3SenCuBlocks {
  
     getSenCuColorMulti(args, util) {
         //return navigator.appVersion;
-        return this.getColorData(args.SenCu_COLOR);
+        return this.getColorData(args.SenCu_COLOR, args.SenCu_ADDR);
     };
 
     getSenCuAQI(args, util) {
